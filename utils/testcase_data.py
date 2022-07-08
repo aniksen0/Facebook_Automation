@@ -19,8 +19,8 @@ print(group_post_message)
 # Search Keyword
 SearchKeyword = readData(filepath, SearchKeyword_sheet, 6, 3)
 # credential
-account = "ahsan.kaisar@gmail.com"
-password = "asdfghqwerty#123"
+account = "anik.sen@musiczi.com"
+password = "asdfgh#qwerty#2645"
 
 # all sheet Name
 others_portal = "Others"

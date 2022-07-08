@@ -1,5 +1,5 @@
 import openpyxl
-import validators
+# import validators
 
 
 def getRowCount(file, sheetName):

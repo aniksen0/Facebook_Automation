@@ -84,3 +84,6 @@ This bot can't detect the previous post and can't detect if you are joined in th
 It also lack some of the visualization. it doesn't generate any message whether you have already posted on the group or not also it didn't automatically join you in the group.
 please use cautiously. If your account get blocked, developer isn't responsible for that.
 
+##Conclusion
+
+Selenium is slow and it takes several times to scrape through all the element as it has to wait for dom element load/change.

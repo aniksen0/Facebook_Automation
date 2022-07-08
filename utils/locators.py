@@ -18,10 +18,10 @@ class PostingLocators(object):
 class PeopleList(object):
     searchField = (By.XPATH, '//input[@role="combobox"]')
     people_menu = (By.XPATH, "//span[contains(text(),'People')]")
-    allpeople = (By.XPATH, '//div[@class="sjgh65i0"]//div[@class="hpfvmrgz g5gj957u buofh1pr rj1gh0hx o8rfisnq"]')
-    end_of_result = (By.XPATH, "//span[contains(text(),'End of Results')]")
-    name = (By.XPATH, './/span[@class="nc684nl6"]//a')
-    id_link = (By.XPATH, './/span[@class="nc684nl6"]//a')
+    allpeople = (By.XPATH, '//div[@class="ue3kfks5 pw54ja7n uo3d90p7 l82x9zwi a8c37x1j"]')
+    end_of_result = (By.XPATH, "//span[contains(text(),'End of results')]")
+    name = (By.XPATH, './/a[@role="presentation"]')
+    id_link = (By.XPATH, './/a[@role="presentation"]')
     friend_button = ""
 
 
